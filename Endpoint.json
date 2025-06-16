@@ -1,6 +1,6 @@
 {
     "ArcticVersion": "2.0.0",
-    "BootstrapperVersion": "1.00",
-    "BootstrapperUrl": "https://github.com/markitos4/Synapse/releases/download/Bootstrapper/Bootstrapper.exe",
+    "BootstrapperVersion": "1.05",
+    "BootstrapperUrl": "https://github.com/markitos4/Arctic/releases/download/BootstrapperDownload/ArcticBootstrapper.exe",
     "Download":"https://github.com/markitos4/Arctic/releases/download/ArcticDownload/Arctic.zip"
 }
