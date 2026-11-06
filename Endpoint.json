@@ -1,6 +1,7 @@
+
 {
-    "ArcticVersion": "0.0.2",
-    "BootstrapperVersion": "1.05",
-    "BootstrapperUrl": "https://github.com/markitos4/Arctic/releases/download/BootstrapperDownload/ArcticBootstrapper.exe",
-    "Download":"https://github.com/markitos4/Arctic/releases/download/ArcticDownload/Arctic.zip"
+  "BootstrapperVersion": "2026.11.06",
+  "BootstrapperUrl": "https://github.com/usuario/repositorio/releases/download/v1.0.0/ArcticBootstrapper.exe",
+  "ArcticVersion": "2026.11.06",
+  "ArcticUrl": "https://github.com/usuario/repositorio/releases/download/v1.0.0/Arctic.zip"
 }
